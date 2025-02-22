@@ -1,7 +1,7 @@
-#Hi there 👋
+# Hi there 👋
 I'm Parsa sanaee.
 
-#💻 Tech Stack:
+# 💻 Tech Stack:
 
 #  Learning:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
