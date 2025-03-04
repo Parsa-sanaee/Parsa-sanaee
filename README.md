@@ -13,9 +13,9 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Parsa-sanaee&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Parsa-sanaee&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Parsa-sanaee&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![Parsa-sanaee's Stats](https://github-readme-stats.vercel.app/api?username=Parsa-sanaee&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+
+![Parsa-sanaee's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parsa-sanaee&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 
 ## 🏆 GitHub Trophies
