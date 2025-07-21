@@ -10,6 +10,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
+https://github.com/K1rsN7/K1rsN7/blob/main/Image/cat-coder.gif?raw=true
 
 # 📊 GitHub Stats:
 ![Parsa-sanaee's Stats](https://github-readme-stats.vercel.app/api?username=Parsa-sanaee&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
